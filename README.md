@@ -1,4 +1,4 @@
-# exam
+
 # FOSS LAB EXAM
 
 Three problems were asked to be solved 
